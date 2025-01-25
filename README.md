@@ -1,2 +1,2 @@
 # TWE-TwoWayEmotion
- This project aims to develop a real-time emotion recognition system using deep learning.  A CNN built with Tensorflow and Keras will classify facial expressions into seven emotions from live video input. 
+ Human-computer interaction often lacks emotional intelligence, limiting personalized user experiences. Existing systems for emotion   recognition are either inaccurate or not suited for real-time applications. This project aims to develop an efficient, real-time facial emotion recognition system using deep learning, addressing challenges in mental health monitoring, customer service, and behavior analysis by leveraging the 'fer2013.csv' dataset.
